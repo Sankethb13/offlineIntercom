@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- simple walkie-talkie -->
+    <path android:fillColor="#FFFFFF" android:pathData="M60,24 L64,24 L64,38 L60,38 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M42,38 L66,38 Q70,38 70,42 L70,80 Q70,84 66,84 L42,84 Q38,84 38,80 L38,42 Q38,38 42,38 Z" />
+    <path android:fillColor="#1F8A52" android:pathData="M44,44 L64,44 L64,56 L44,56 Z" />
+    <path android:fillColor="#1F8A52" android:pathData="M44,62 L64,62 L64,65 L44,65 Z M44,69 L64,69 L64,72 L44,72 Z M44,76 L64,76 L64,79 L44,79 Z" />
+</vector>
